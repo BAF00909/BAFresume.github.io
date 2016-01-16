@@ -76,3 +76,6 @@ progress{
 .workExp h3{
 	margin-left: 20px;
 }
+form{
+	display: none;
+}
