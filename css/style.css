@@ -1,0 +1,78 @@
+header{
+	text-align: center;
+
+}
+.banner{
+	min-height: 900px;
+	background-image: url('../img/P210610_13.51_[02].jpg');
+	background-position: center;
+}
+.titleText{
+	font-style: 60px;
+	line-height: 24px;
+	color: #fff;
+	display: inline-block;
+	margin-top: 500px;
+	border-top: 3px solid #fff;
+	border-bottom: 3px solid #fff;
+	padding: 10px;
+}
+.myBtn{
+	display: block;
+	width: 182px;
+	margin: 0 auto;
+	background-color: none;
+	border: 2px solid #fff;
+	border-radius: 0;
+	font-size: 18px;
+	line-height: 24px;
+	color: #fff;
+
+}
+.aboutMe,
+.resume,
+.testimonials{
+	background-color: #f2f2f1;
+}
+.resume,
+.portpholio,
+.testimonials{
+	text-align: center;
+	padding: 50px 20px;
+}
+.skills{
+	padding: 50px 20px;
+}
+progress{
+	height: 20px;
+	color:#2ecc71;
+}
+.colorGreen{
+	color:#2ecc71;
+}
+.contactMe{
+	padding: 50px 30px;
+	background-color: #252e30;
+	color: #fff;
+}
+.marTop{
+	margin-bottom: 30px;
+}
+.mFoot{
+	background-color: #191f21;
+	padding: 30px 20px;
+}
+.copyright{
+	color: #fff;
+	text-align: center;
+}
+.skillsRigthColumn{
+	padding-left: 100px;
+}
+.portpholio .row{
+	margin-bottom: 20px;
+}
+.education h3,
+.workExp h3{
+	margin-left: 20px;
+}
